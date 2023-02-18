@@ -1,0 +1,19 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[40,)" #mandatory
+
+license="All Rights Reserved"
+
+[[mods]] #mandatory
+
+modId="atmos" #mandatory
+
+version="${file.jarVersion}" #mandatory
+ # A display name for the mod
+displayName="Atmos" #mandatory
+
+authors="Pickle_Face5" #optional
+
+description='''
+Adds multi-layered clouds, custom colors for the moon and sun, and full configurable stars!
+'''
